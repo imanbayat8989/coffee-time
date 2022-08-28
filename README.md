@@ -1,3 +1,3 @@
 #demo 
 
-this is simple coffeeshop front website
+this is simple coffeeshop front website!
